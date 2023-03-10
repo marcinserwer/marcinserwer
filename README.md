@@ -1,8 +1,8 @@
-<p align="center">Tutaj będzie mój opis!</p>
+## <p align="center">Nad czym pracuje?</p>
 
-###
-
-<p align="center">Nad czym pracuje?<br>Pracuje nad moim największym projektem czyli gry Uno z wykorzystaniem blockchain'u, chce żeby ta gra była dostosowana dla każdego.</p>
+### <p align="center">Pracuje nad moim największym projektem. Gry Uno z wykorzystaniem blockchain'u. <!--chce żeby ta gra była dostosowana dla każdego. --></p>
+  
+ 
 
 ###
 
