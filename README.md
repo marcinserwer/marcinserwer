@@ -1,17 +1,12 @@
 ## <p align="center">Nad czym pracuje?</p>
-
-### <p align="center">Nad moim największym projektem. Gry Uno z wykorzystaniem blockchain'u.</p>
-  
- 
+### <p align="center">Pracuję nad moim największym projektem, który to jest grą opartą na lekko zmienionych zasadach Uno, wykorzystującą blockchain, przy czym celem jest stworzenie gry przyjaznej użytkownikowi i pozbawionej reklam.</p>
 
 ###
-
 <div align="center">
   <img height="200" src="https://media.tenor.com/BFTKJDgOwP0AAAAC/bitcoin-cheers.gif"  />
 </div>
 
 ###
-
 <div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" width="52" alt="java logo"  />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" height="40" width="52" alt="php logo"  />
