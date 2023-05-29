@@ -1,18 +1,13 @@
-## <p align="center">Nad czym pracuje?</p>
-### <p align="center">Pracuję nad moim największym projektem, który to jest grą opartą na lekko zmienionych zasadach Uno, wykorzystującą blockchain, przy czym celem jest stworzenie gry przyjaznej użytkownikowi i pozbawionej reklam.</p>
+# <p align="center">What am I working on, exactly?</p>
+## <p align="center">I am working on my biggest project, which is a game based on slightly modified Uno rules, utilizing blockchain technology, with the goal of creating a user-friendly game free of advertisements. I plan to release the first version of the game in the Play Store during the summer.</p>
+
+# A few words about me
+### My name is Marcin, I am a passionate aspiring programmer with a love for cats.
+### My interests cover a wide range of topics, but I am particularly passionate about programming and modern technologies.
+### I am also interested in economics and finance. I understand how these fields impact the global economy and their social consequences. Analyzing markets, studying trends, and understanding financial mechanisms are areas that intrigue me.
+### Additionally, Globalistics is one of my interests. Tracking political, social, and cultural changes on the international stage helps me understand the dynamics of our world.
 
 ###
 <div align="center">
   <img height="200" src="https://media.tenor.com/BFTKJDgOwP0AAAAC/bitcoin-cheers.gif"  />
-</div>
-
-###
-<div align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" width="52" alt="java logo"  />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" height="40" width="52" alt="php logo"  />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" width="52" alt="javascript logo"  />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" width="52" alt="python logo"  />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" width="52" alt="mysql logo"  />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" width="52" alt="html5 logo"  />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" width="52" alt="css3 logo"  />
 </div>
