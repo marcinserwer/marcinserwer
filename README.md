@@ -1,5 +1,5 @@
 # <p align="center">What am I working on, exactly?</p>
-## <p align="center">I am working on my [biggest project Flipo!](https://github.com/marcinserwer/Flipo-Game), which is a game based on slightly modified Uno rules, utilizing blockchain technology, with the goal of creating a user-friendly game free of advertisements. I plan to release the first version of the game in the Play Store during the summer.</p>
+## <p align="center">I am working on my [biggest project Flipo!](https://github.com/marcinserwer/Flipo-Game), which is a game based on slightly modified Uno rules, utilizing blockchain technology, with the goal of creating a user-friendly game free of advertisements.</p>
 
 # A few words about me
 ### My name is Marcin, I am a passionate aspiring programmer with a love for cats.
